@@ -1,6 +1,8 @@
 # ISLR-python
 This repository contains Python code for a selection of tables, figures and LAB sections from the book <A target="_blank" href='http://www-bcf.usc.edu/%7Egareth/ISL/index.html'>'An Introduction to Statistical Learning with Applications in R'</A> by James, Witten, Hastie, Tibshirani (2013).<P>
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pydatawrangler/ISLR-python/master)
+
 For Bayesian data analysis, take a look at <A href='https://github.com/JWarmenhoven/DBDA-python'>this notebook</A>.
 
 **2018-01-15**:<BR>
